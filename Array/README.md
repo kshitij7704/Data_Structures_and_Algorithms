@@ -13,6 +13,23 @@ By exploring this folder, you will:
 - Implement core array operations from scratch.
 - Practice solving array-based problems to strengthen your algorithmic thinking.
 
+## 📂 Folder Structure
+```
+Array_ADT/
+├── ArrayADT.c
+└── README.md
+```
+
+## 📝 Languages Used: 
+C (can be extended to other languages as needed)
+
+## ⚙️ Key Operations Covered
+1. Insert at position
+2. Delete from position
+3. Update element
+4. Traverse and display
+5. Resize (for dynamic arrays)
+
 ## ⏱️ Time Complexities (for static arrays)
 1. Access -	O(1)
 2. Insertion -	O(n)
