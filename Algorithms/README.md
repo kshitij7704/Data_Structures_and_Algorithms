@@ -14,5 +14,19 @@ This directory includes categorized algorithm implementations in various domains
 - Counting Sort
 - Radix Sort
 
+### 🔍 Searching Algorithms
+- Linear Search
+- Binary Search (Iterative & Recursive)
+- Ternary Search
+- Exponential Search
+- Interpolation Search
+
+### 🔗 Recursion and Backtracking
+- Factorial / Fibonacci
+- N-Queens Problem
+- Sudoku Solver
+- Subset Generation
+- Permutations
+
 
 
