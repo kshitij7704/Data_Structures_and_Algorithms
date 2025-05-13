@@ -47,4 +47,22 @@ This directory includes categorized algorithm implementations in various domains
 - Union-Find / Disjoint Set
 
 
+### 🌲 Tree and Binary Tree Algorithms
+- Tree Traversals (Inorder, Preorder, Postorder)
+- Lowest Common Ancestor
+- Diameter of a Tree
+- BST Insert/Delete/Search
+- AVL / Balanced Trees (if applicable)
 
+### 🧠 Greedy Algorithms
+- Activity Selection
+- Fractional Knapsack
+- Huffman Coding
+- Job Scheduling
+
+### ⚙️ Miscellaneous
+- Sliding Window Algorithms
+- Two Pointers Technique
+- Binary Search on Answer
+- Bit Manipulation Tricks
+- Divide and Conquer Patterns
