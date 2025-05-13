@@ -28,5 +28,23 @@ This directory includes categorized algorithm implementations in various domains
 - Subset Generation
 - Permutations
 
+### 📉 Dynamic Programming
+- 0/1 Knapsack
+- Longest Common Subsequence
+- Longest Increasing Subsequence
+- Matrix Chain Multiplication
+- Edit Distance
+- Coin Change
+
+### 🌐 Graph Algorithms
+- Breadth-First Search (BFS)
+- Depth-First Search (DFS)
+- Dijkstra’s Algorithm
+- Bellman-Ford Algorithm
+- Floyd-Warshall Algorithm
+- Prim’s and Kruskal’s Algorithms
+- Topological Sort
+- Union-Find / Disjoint Set
+
 
 
