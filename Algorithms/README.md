@@ -66,3 +66,18 @@ This directory includes categorized algorithm implementations in various domains
 - Binary Search on Answer
 - Bit Manipulation Tricks
 - Divide and Conquer Patterns
+
+### 🚀 How to Use
+- Each algorithm is implemented in a modular and easy-to-understand way. You'll typically find:
+- Code: Clean and well-commented implementation.
+- Explanation: Inline or separate markdown files explaining logic and time complexity.
+- Examples/Test Cases: Some algorithms include usage examples or test cases.
+
+You can run or test algorithms using your favorite language runtime or integrate them into projects or problem-solving workflows.
+
+### 🛠 Technologies Used
+Implementations are primarily written in:
+- Python
+- C++
+
+
