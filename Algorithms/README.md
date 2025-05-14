@@ -80,4 +80,15 @@ Implementations are primarily written in:
 - Python
 - C++
 
+### 💡 Contribution
+Feel free to contribute by:
+- Adding new algorithms
+- Optimizing existing ones
+- Improving documentation or comments
 
+### 📚 Resources
+For understanding or referencing algorithms, you may find the following useful:
+- GeeksforGeeks
+- LeetCode
+- Hackerrank
+- CP Algorithms
