@@ -1,2 +1,2 @@
-# Hackerrank Practice Problems
-This repository contains all the practice problems from Hackerrank
+# Practice SQL
+This repository contains all the practice problems of SQL
